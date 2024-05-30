@@ -1,5 +1,5 @@
 name: 'Add D-5 Label'
-description: 'add D-5 label on pull request'
+description: 'add D-5 label on pull request open'
 inputs:
   github_token:
     description: 'GitHub token'
